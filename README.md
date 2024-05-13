@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Laravel**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
